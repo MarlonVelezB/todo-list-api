@@ -6,7 +6,7 @@ Este proyecto es una API RESTful para gestionar tareas (todos) desarrollada con 
 
 ## Estructura del Proyecto
 
-`
+```
 todo-api/
 │
 ├── config/
@@ -30,7 +30,7 @@ todo-api/
 ├── package.json
 ├── README.md
 └── server.js
-`
+```
 
 ## Requisitos Previos
 
