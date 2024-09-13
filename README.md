@@ -33,16 +33,32 @@ Este proyecto es una API para gestionar tareas (todos) desarrollada con Node.js 
 ## Requisitos Previos
 
 - Node.js (versión 14.x o superior)
-- pnpm (normalmente viene con Node.js)
+- pnpm 
 
-## Configuración
+## Cómo Empezar
 
-1. Clona el repositorio:
-git clone [https://github.com/tu-usuario/todo-api.git](https://github.com/MarlonVelezB/todo-list-api.git)
+Para empezar a trabajar con el proyecto, sigue estos pasos:
+
+1. Instalar
+[NodeJs](https://nodejs.org/en)
+
+2. Instalar PNPM
+```
+npm install -g pnpm
+```
+3. Clona el repositorio:
+```
+git clone [https://github.com/MarlonVelezB/todolist-app.git](https://github.com/MarlonVelezB/todolist-app.git)
 cd todo-api
-
-2. Instala las dependencias:
+```
+4. Instala las dependencias:
+```
 pnpm install
+```
+5. Ejecutar y iniciar app
+```
+pnpm run dev
+```
 
 ## Ejecución de la API
 
