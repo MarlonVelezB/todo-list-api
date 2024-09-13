@@ -40,26 +40,18 @@ todo-api/
 ## Configuración
 
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/todo-api.git
+git clone [https://github.com/tu-usuario/todo-api.git](https://github.com/MarlonVelezB/todo-list-api.git)
 cd todo-api
 
 2. Instala las dependencias:
-npm install
-
-3. Crea un archivo `.env` en la raíz del proyecto y configura las variables de entorno necesarias:
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/todo_db
-JWT_SECRET=tu_secreto_jwt
+pnpm install
 
 ## Ejecución de la API
 
 Para iniciar el servidor en modo de desarrollo:
 npm run dev
 
-Para iniciar el servidor en modo de producción:
-npm start
-
-La API estará disponible en `http://localhost:3000` (o el puerto que hayas configurado).
+La API estará disponible en `http://localhost:3000`.
 
 ## Endpoints Principales
 
