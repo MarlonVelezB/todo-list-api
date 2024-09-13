@@ -6,7 +6,8 @@ Este proyecto es una API RESTful para gestionar tareas (todos) desarrollada con 
 
 ## Estructura del Proyecto
 
-``todo-api/
+`
+todo-api/
 │
 ├── config/
 │   └── db.js
@@ -28,7 +29,8 @@ Este proyecto es una API RESTful para gestionar tareas (todos) desarrollada con 
 ├── .gitignore
 ├── package.json
 ├── README.md
-└── server.js``
+└── server.js
+`
 
 ## Requisitos Previos
 
