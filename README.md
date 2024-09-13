@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este proyecto es una API RESTful para gestionar tareas (todos) desarrollada con Node.js y Express. Proporciona funcionalidades para crear, leer, actualizar y eliminar tareas, con autenticación de usuarios y persistencia de datos.
+Este proyecto es una API para gestionar tareas (todos) desarrollada con Node.js y Express. Proporciona funcionalidades para crear, leer, actualizar y eliminar tareas, con autenticación de usuarios y persistencia de datos.
 
 ## Estructura del Proyecto
 
