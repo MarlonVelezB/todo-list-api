@@ -59,8 +59,8 @@ La API estará disponible en `http://localhost:3000`.
 - `POST /todos`: Crea una nueva tarea
 - `GET /todos/:id`: Obtiene una tarea específica
 - `PUT /todos/update/:id`: Actualiza una tarea
-- `PUT /todos/change-state/:id`: Actualiza una tarea
-- `PUT /todos/change-state-available/:id`: Actualiza una tarea
+- `PUT /todos/change-state/:id`: Actualiza estado de completado de una tarea
+- `PUT /todos/change-state-available/:id`: Actualiza el estado de borrado de una tarea
 
 Para más detalles sobre los endpoints y su uso, consulta el archivo `routes.js`.
 
