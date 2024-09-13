@@ -35,8 +35,7 @@ todo-api/
 ## Requisitos Previos
 
 - Node.js (versión 14.x o superior)
-- npm (normalmente viene con Node.js)
-- MongoDB (asegúrate de tener una instancia en ejecución)
+- pnpm (normalmente viene con Node.js)
 
 ## Configuración
 
