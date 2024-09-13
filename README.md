@@ -7,28 +7,26 @@ Este proyecto es una API para gestionar tareas (todos) desarrollada con Node.js 
 ## Estructura del Proyecto
 
 ```
-todo-api/
-│
-├── config/
+.
+├── config
 │   └── db.js
-├── controllers/
+├── controllers
 │   └── todoController.js
-├── dtos/
+├── dtos
 │   └── todoDTO.js
-├── middlewares/
+├── middlewares
 │   └── authMiddleware.js
-├── models/
+├── models
 │   └── taskModel.js
-├── repositories/
+├── repositories
 │   └── todoRepository.js
-├── services/
-│   └── todoService.js
-├── routes/
+├── routes
 │   └── routes.js
-├── .env
-├── .gitignore
-├── package.json
+├── services
+│   └── todoService.js
 ├── README.md
+├── package.json
+├── pnpm-lock.yaml
 └── server.js
 ```
 
